@@ -11,19 +11,19 @@ The gene-level workflow uses Indian CHIKV gene sequences for downstream evolutio
 ## Workflow
 
 Data Recovery
-↓
+      ↓
 Data Curation
-↓
+     ↓
 Sequence Quality Control
-↓
+     ↓
 Gene Extraction / Preparation
-↓
+     ↓
 Multiple Sequence Alignment
-↓
+     ↓
 Sequence Filtering
-↓
+     ↓
 Selection Pressure Analysis
-↓
+    ↓
 Interpretation of Results
 
 ## Data Privacy
